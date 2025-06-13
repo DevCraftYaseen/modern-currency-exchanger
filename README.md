@@ -146,5 +146,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you found it helpful!**
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/modern-currency-exchanger?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/modern-currency-exchanger?style=social)
+![GitHub stars](https://img.shields.io/github/stars/DevCraftYaseen/modern-currency-exchanger?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DevCraftYaseen/modern-currency-exchanger?style=social)
